@@ -1,0 +1,15 @@
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\bin\Debug\PhoHiCreat.exe.config
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\bin\Debug\PhoHiCreat.exe
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\bin\Debug\PhoHiCreat.pdb
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\PhoHiCreat.csprojAssemblyReference.cache
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\MainWindow.g.cs
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\App.g.cs
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\PhoHiCreat_MarkupCompile.cache
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\PhoHiCreat_MarkupCompile.lref
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\MainWindow.baml
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\PhoHiCreat.g.resources
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\PhoHiCreat.Properties.Resources.resources
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\PhoHiCreat.csproj.GenerateResource.cache
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\PhoHiCreat.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\PhoHiCreat.exe
+C:\Users\Jan\source\repos\PhoHiCreat\PhoHiCreat\obj\Debug\PhoHiCreat.pdb
